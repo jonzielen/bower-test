@@ -21,7 +21,8 @@ module.exports = function (grunt) {
           httpPath:'/',
           imagesDir:'img',
           javascriptsDir:'js',
-          outputStyle:'compressed'
+          //outputStyle:'compressed'
+          outputStyle:'expanded'
         }
       }
     },

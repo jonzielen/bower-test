@@ -5,8 +5,9 @@
 @import "bootstrap-variables";
 
 // Import Bootstrap for Sass
-@import "bootstrap";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
 
 html body {
     background-color:#ccc;
+    padding:12px;
 }
