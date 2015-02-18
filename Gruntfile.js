@@ -8,7 +8,7 @@ module.exports = function (grunt) {
           removeComments:true
         },
         files: {
-          'index.php': 'index.php',
+          'index.html': 'index.html',
         }
       }
     },
