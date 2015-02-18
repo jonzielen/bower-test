@@ -8,10 +8,10 @@
   "main": [
     "./css/styles.css",
     "./js/main.min.js",
-    "./fonts/glyphicons-halflings-regular.eot",
-    "./fonts/glyphicons-halflings-regular.svg",
-    "./fonts/glyphicons-halflings-regular.ttf",
-    "./fonts/glyphicons-halflings-regular.woff"
+    "./fonts/bootstrap/glyphicons-halflings-regular.eot",
+    "./fonts/bootstrap/glyphicons-halflings-regular.svg",
+    "./fonts/bootstrap/glyphicons-halflings-regular.ttf",
+    "./fonts/bootstrap/glyphicons-halflings-regular.woff"
   ],
   "license": "MIT",
   "ignore": [
