@@ -1,0 +1,6 @@
+# ignore files other than required grunt files
+config.rb
+node_modules/*
+bower_components/*
+.sass-cache/*
+img/*
