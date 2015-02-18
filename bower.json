@@ -6,8 +6,8 @@
   ],
   "description": "a test",
   "main": [
-    "./css/bootstrap.css",
-    "./js/bootstrap.js",
+    "./css/styles.css",
+    "./js/main.min.js",
     "./fonts/glyphicons-halflings-regular.eot",
     "./fonts/glyphicons-halflings-regular.svg",
     "./fonts/glyphicons-halflings-regular.ttf",
