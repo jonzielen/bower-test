@@ -6,12 +6,8 @@
   ],
   "description": "a test",
   "main": [
-    "./css/styles.css",
-    "./js/main.min.js",
-    "./fonts/bootstrap/glyphicons-halflings-regular.eot",
-    "./fonts/bootstrap/glyphicons-halflings-regular.svg",
-    "./fonts/bootstrap/glyphicons-halflings-regular.ttf",
-    "./fonts/bootstrap/glyphicons-halflings-regular.woff"
+    "css/styles.css",
+    "js/main.js"
   ],
   "license": "MIT",
   "ignore": [
